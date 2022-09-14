@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**PickleJarPete/PickleJarPete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there!
 
 - 🔭 I’m currently working on passing comp sci classes
 - 🌱 I’m currently learning SQl, R, Blender
